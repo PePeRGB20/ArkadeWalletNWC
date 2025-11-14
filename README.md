@@ -32,8 +32,8 @@ Purple Arkade Wallet is a fork of [Arkade Wallet](https://github.com/arkade-os/w
 
 ```bash
 # Clone the repository
-git clone https://github.com/PePeRGB20/ArkaneWalletNWC.git
-cd ArkaneWalletNWC
+git clone https://github.com/LastDegenBtc/ArkadeWalletNWC.git
+cd ArkadeWalletNWC
 
 # Install dependencies
 npm install
@@ -161,8 +161,8 @@ MIT License
 
 ## 📞 Contact
 
-- GitHub: [@PePeRGB20](https://github.com/PePeRGB20)
-- Repository: https://github.com/PePeRGB20/ArkaneWalletNWC
+- GitHub: [@LastDegenBtc](https://github.com/LastDegenBtc)
+- Repository: https://github.com/LastDegenBtc/ArkadeWalletNWC
 
 ---
 
